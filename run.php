@@ -1,10 +1,4 @@
 <?php
-/**
- *  Created by Wahyu Arif P (warifp)
- *  07 April 2021
- * 
- * https://www.linkedin.com/in/warifp/
- */
 
 require __DIR__ . '/vendor/autoload.php';
 include 'config.php';
